@@ -31,3 +31,9 @@ We understand that there are more resources other than the ones we have listed a
 If you have more questions or suggestions, check our [NahamSec's Discord](https://discord.gg/9jZxjQ5)!<br>
 Also, feel free to check out the other resources:
 - Nahamsec on [YouTube](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw) and on [Twitch](https://www.twitch.tv/nahamsec)
+
+CREDITS:
+Securibee
+Nahamsec
+AshF0x
+Cody Brocious (@daeken)
